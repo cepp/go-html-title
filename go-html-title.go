@@ -1,7 +1,6 @@
 package gohtmltitle
 
 import (
-	"fmt"
 	"io"
 	"net/http"
 	"regexp"
